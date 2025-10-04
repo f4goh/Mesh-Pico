@@ -77,6 +77,7 @@ Follow the flashing procedure described earlier to upload the firmware to your R
 pio run -e [name]
 ```
 
+| Colonne 1                         | Colonne 2                          | Colonne 3                          |
 |-----------------------------------|------------------------------------|------------------------------------|
 | seeed_xiao_nrf52840_e22_900m30s   | unphone-tft                        | buildroot                          |
 | heltec-ht62-esp32c3-sx1262        | picow                              | rak4631                            |

@@ -26,6 +26,8 @@ Make your own Meshtastic project with an RP2040 PICO ZERO
 
 ![board](images/Otg_enable.jpg)
 
+![board](images/mesh_otg.jpg)
+
 ## Using smartphone with client.meshtastic.org
 
 ![board](images/pico_mesh_PC.png)

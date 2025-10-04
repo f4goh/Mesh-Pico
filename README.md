@@ -73,7 +73,7 @@ Follow the flashing procedure described earlier to upload the firmware to your R
 
 ![board](images/PCB.png)
 
-## Microcontroolers supported by the command
+## Environement boards supported by the command
 
 ```bash
 pio run -e [name]

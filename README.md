@@ -89,7 +89,7 @@ Their boards undergo strict quality control, ensuring durability and flawless pe
 ## 4. Upload Your File
 - Send your Gerber and drill files to the [JLCPCB](https://jlcpcb.com/) website.
 - Use their preview tool to check everything is correct.
-![board](jlcpcb_select.png)
+![board](images/jlcpcb_select.png)
 
 ## 3. Configure Your Order
 - **Dimensions**: length, width, thickness.
@@ -99,29 +99,29 @@ Their boards undergo strict quality control, ensuring durability and flawless pe
 - **Quantity**: prototypes or mass production.
 - **Solder mask color**: green, red, blue, black…
 
-![board](jlcpcb_save.png)
+![board](images/jlcpcb_save.png)
 
 ## 5. Confirm and Pay
 - Review the quote and selected options.
 - Proceed with online payment.
 
-![board](jlcpcb_pay.png)
+![board](images/jlcpcb_pay.png)
 
 ## 6. Track and Receive
 - Follow the production progress on the [JLCPCB](https://jlcpcb.com/) website.
 - Receive your PCBs and use them.
 
-![board](jlcpcb_prog.png)
+![board](images/jlcpcb_prog.png)
 
-![board](jlcpcb_prog2.png)
+![board](images/jlcpcb_prog2.png)
 
-![board](jlcpcb_track.png)
+![board](images/jlcpcb_track.png)
 
-![board](jlcpcb-pak1.jpg)
+![board](images/jlcpcb-pak1.jpg)
 
-![board](jlcpcb-pak2.jpg)
+![board](images/jlcpcb-pak2.jpg)
 
-![board](jlcpcb-pak3.jpg)
+![board](images/jlcpcb-pak3.jpg)
 
 
 ## Environement boards supported by the command

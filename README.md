@@ -71,7 +71,58 @@ Follow the flashing procedure described earlier to upload the firmware to your R
 
 ## PCB
 
-![board](images/PCB.png)
+![board](images/PCB.png) 
+
+The printed circuit board is manufactured by [JLCPCB](https://jlcpcb.com/)
+
+JLCPCB is renowned for its exceptional PCB quality, precise manufacturing, and reliable tracking services.
+
+Their boards undergo strict quality control, ensuring durability and flawless performance for both prototypes and mass production. Customers can monitor the fabrication process in real time, from file review to production progress.
+
+# Steps to Order a Printed Circuit Board (PCB)
+
+## 1. Prepare Your Files
+- **Gerber files**: download gerber file as ZIP file
+
+## 2. Manufacturer is [JLCPCB](https://jlcpcb.com/)
+
+## 4. Upload Your File
+- Send your Gerber and drill files to the [JLCPCB](https://jlcpcb.com/) website.
+- Use their preview tool to check everything is correct.
+![board](jlcpcb_select.png)
+
+## 3. Configure Your Order
+- **Dimensions**: length, width, thickness.
+- **Number of layers**: single-sided, double-sided, or multilayer.
+- **Material**: standard FR4 or other.
+- **Finish**: HASL, ENIG, etc.
+- **Quantity**: prototypes or mass production.
+- **Solder mask color**: green, red, blue, black…
+
+![board](jlcpcb_save.png)
+
+## 5. Confirm and Pay
+- Review the quote and selected options.
+- Proceed with online payment.
+
+![board](jlcpcb_pay.png)
+
+## 6. Track and Receive
+- Follow the production progress on the [JLCPCB](https://jlcpcb.com/) website.
+- Receive your PCBs and use them.
+
+![board](jlcpcb_prog.png)
+
+![board](jlcpcb_prog2.png)
+
+![board](jlcpcb_track.png)
+
+![board](jlcpcb-pak1.jpg)
+
+![board](jlcpcb-pak2.jpg)
+
+![board](jlcpcb-pak3.jpg)
+
 
 ## Environement boards supported by the command
 

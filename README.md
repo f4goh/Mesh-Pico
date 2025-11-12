@@ -73,7 +73,7 @@ Follow the flashing procedure described earlier to upload the firmware to your R
 
 ![board](images/PCB.png) 
 
-The printed circuit board is manufactured by [JLCPCB](https://jlcpcb.com/)
+The printed circuit board is manufactured by [JLCPCB](https://jlcpcb.com/fr/coupon-center?from=DECDPLCXAWJ)
 
 JLCPCB is renowned for its exceptional PCB quality, precise manufacturing, and reliable tracking services.
 
@@ -87,7 +87,7 @@ Their boards undergo strict quality control, ensuring durability and flawless pe
 ## 2. Manufacturer is [JLCPCB](https://jlcpcb.com/)
 
 ## 4. Upload Your File
-- Send your Gerber and drill files to the [JLCPCB](https://jlcpcb.com/) website.
+- Send your Gerber and drill files to the [JLCPCB](https://jlcpcb.com/fr/coupon-center?from=DECDPLCXAWJ) website.
 - Use their preview tool to check everything is correct.
 ![board](images/jlcpcb_select.png)
 
@@ -108,7 +108,7 @@ Their boards undergo strict quality control, ensuring durability and flawless pe
 ![board](images/jlcpcb_pay.png)
 
 ## 6. Track and Receive
-- Follow the production progress on the [JLCPCB](https://jlcpcb.com/) website.
+- Follow the production progress on the [JLCPCB](https://jlcpcb.com/fr/coupon-center?from=DECDPLCXAWJ) website.
 - Receive your PCBs and use them.
 
 ![board](images/jlcpcb_prog.png)
